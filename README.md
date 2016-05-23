@@ -1,6 +1,6 @@
 # Code of Conduct
 All members are required to agree with the following code of conduct. 
-**All members of the community are expected to enforce this code** at every community event (such as our [Coding for Everyone meetups](http://www.meetup.com/founderscoders/)), in out [gitter channel](https://gitter.im/codingforeveryone) and everywhere where we interact under the Coding for Everyone or [Founders & Coders](http://www.github.com/foundersandcoders) banner.
+**All members of the community are expected to enforce this code** at every community event (such as our [Coding for Everyone meetups](http://www.meetup.com/founderscoders/)), in our [gitter channel](https://gitter.im/codingforeveryone), and everywhere we interact under the Coding for Everyone or [Founders & Coders](http://www.github.com/foundersandcoders) banner.
 We expect cooperation from all participants in the community to *help ensure a safe environment for everybody*.
 
 ## Need Help?
@@ -10,7 +10,7 @@ Please reach out to us! Our contact details are on [our website](http://www.foun
 
 
 ## The Quick Version
-Our community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of community members in any form. Sexual language, imagery or innuendo is not appropriate for any community event, including talks, workshops, parties, Gitter, Twitter and other online media or channels. Participants violating these rules may be sanctioned or expelled from the event and any future events as well as the from the community itself, at the discretion of [the organisers](http://www.foundersandcoders.com).
+Our community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of community members in any form. Sexual language, imagery or innuendo is not appropriate for any community event, including talks, workshops, parties, Gitter, Twitter and other online media or channels. Participants violating these rules may be sanctioned or expelled from the event and any future events, as well as the from the community itself, at the discretion of [the organisers](http://www.foundersandcoders.com).
 
 ## The Long Version
 Harassment includes offensive verbal or written comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
